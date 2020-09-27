@@ -1,0 +1,43 @@
+body {
+  background: #494959;
+  color: #f9f9f9;
+  text-shadow: 1px 1px 1px black, 1px 1px 3px black, 1px 1px 5px black;
+}
+
+button {
+  background: #434343;
+  color: lime;
+  font-weight: bold;
+  border-radius: 0.4rem;
+  padding: 0.3rem 0.5rem;
+  cursor: pointer;
+  transition: 0.1s;
+}
+
+button:hover {
+  background: navy;
+  color: gold;
+}
+
+h1 {
+  color: rgb(255, 111, 140);
+}
+
+hr {
+  width: 90%;
+}
+
+input {
+  border-radius: 0.4rem;
+  background: #eeeeee;
+  color: #020202;
+  padding: 0.2rem 0.5rem;
+}
+
+.main {
+  text-align: center;
+}
+
+.mainDiv {
+  text-align: center;
+}

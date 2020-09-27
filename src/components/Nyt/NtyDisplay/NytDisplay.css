@@ -1,0 +1,19 @@
+ul {
+  color: rgb(115, 220, 255);
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#prevButton {
+  float: left;
+  margin-left: 5rem;
+}
+
+#nextButton {
+  float: right;
+  margin-right: 5rem;
+}
+
+.NytDisplayMainDiv {
+  text-align: center;
+}
